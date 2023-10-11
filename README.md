@@ -23,4 +23,8 @@ I believe that I was able to answer my exploration question to some extent as I 
 
 ### Files Details:
 
-- 
+- CICS 397A - Final Project.pdf: Report of the final project including visualizations and explanations
+- FinalProject.ipynb: The code for the project written in python
+- social_capital_county.csv: The data used in this project
+
+For more information and an in-depth analysis please look at the attached PDF.
