@@ -13,6 +13,6 @@ The creators used data of Facebook users between the ages of 25 and 44, who resi
 
 ### Methodology
 
-• Conducted Data Cleaning and performed Exploratory Analysis on a substantial dataset using Python
-• Utilized Clustering and Classification techniques to delve deeper into the dataset and examine its intricate connections
-• Created visual representations of different variables to assess the robustness and nature of their interrelationships
+- Conducted Data Cleaning and performed Exploratory Analysis on a substantial dataset using Python
+- Utilized Clustering and Classification techniques to delve deeper into the dataset and examine its intricate connections
+- Created visual representations of different variables to assess the robustness and nature of their interrelationships
